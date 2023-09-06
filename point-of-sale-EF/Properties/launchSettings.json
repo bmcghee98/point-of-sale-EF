@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "point-of-sale-EF": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\brian\\Desktop\\c_sharp\\PointOfSale-EF\\point-of-sale-EF\\point-of-sale-EF"
+    }
+  }
+}
